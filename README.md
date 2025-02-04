@@ -1,2 +1,2 @@
 # learning-react
-Curso para aprender REACR
+Curso para aprender REACT
